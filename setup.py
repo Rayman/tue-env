@@ -35,7 +35,6 @@ setup(
         'rosdistro >= 0.7.3',
         'rosinstall_generator',
         'six>=1.7',  # https://github.com/testing-cabal/mock/issues/257
-        'trollius',  # remove when catkin>0.4.4 is released
         'vcstools',
         'xdg==1.0.7',
     ],
